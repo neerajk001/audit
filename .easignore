@@ -1,0 +1,14 @@
+# Ignore system and cache directories
+
+\*.bun
+.bun/
+node_modules/
+AppData/
+.git/
+.expo/
+.vscode/
+
+# Ignore temp files
+
+_.log
+_.tmp
